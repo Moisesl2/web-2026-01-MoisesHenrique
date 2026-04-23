@@ -78,7 +78,7 @@ function Sidebar() {
           <University size={17} />
         </div>
         <div className="pt-[2px] leading-[1.05]">
-          <div className="text-[11px] font-black tracking-[0.03em] text-[#0B4C8C]">UFERSA</div>
+          <div className="text-[11px] font-black tracking-[0.03em] text-[#0B4C8C]">SIFU</div>
           <div className="mt-[2px] text-[9px] font-semibold uppercase tracking-[0.08em] text-[#6C7D8E]">
             Portal Docente
           </div>
